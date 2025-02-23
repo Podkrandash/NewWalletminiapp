@@ -1,5 +1,5 @@
 {
-    "name": "@tonkeeper/core",
+    "name": "new-wallet-miniapp-core",
     "version": "0.1.0",
     "author": "Ton APPS UK Limited <support@tonkeeper.com>",
     "description": "Core features and state for tonkeeper web wallet",
