@@ -1,0 +1,13 @@
+{
+    "framework": "vite",
+    "buildCommand": "cd apps/twa && npm install && npm run build",
+    "outputDirectory": "apps/twa/dist",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ],
+    "installCommand": "npm install",
+    "packageManager": "npm"
+}
